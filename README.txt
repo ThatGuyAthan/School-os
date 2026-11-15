@@ -1,0 +1,1 @@
+School OS stores tasks, checklists and weekly plans locally in this browser. No sync or backup. Upload all files in this folder to the root of a GitHub repository, enable GitHub Pages on main / root, then open its HTTPS URL in Safari and use Share > Add to Home Screen.

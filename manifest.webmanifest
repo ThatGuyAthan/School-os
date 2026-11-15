@@ -1,0 +1,16 @@
+{
+  "name": "School OS",
+  "short_name": "School OS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#172d48",
+  "theme_color": "#172d48",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
